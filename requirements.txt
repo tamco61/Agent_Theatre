@@ -1,0 +1,5 @@
+# OpenAI SDK используется для YandexGPT Responses API, как в Agent_Artist.
+openai>=1.68,<3
+# Запуск ноутбука.
+jupyterlab
+ipykernel

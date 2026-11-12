@@ -1,0 +1,101 @@
+{
+  "path": "results/public.json",
+  "status": "passed",
+  "days": [
+    {
+      "day": 1,
+      "first_speaker": "p1",
+      "ordinary": 10,
+      "ballot_rounds": 1,
+      "runoff_speeches": 0,
+      "last_words": 1
+    },
+    {
+      "day": 2,
+      "first_speaker": "p3",
+      "ordinary": 9,
+      "ballot_rounds": 1,
+      "runoff_speeches": 0,
+      "last_words": 1
+    },
+    {
+      "day": 3,
+      "first_speaker": "p4",
+      "ordinary": 8,
+      "ballot_rounds": 1,
+      "runoff_speeches": 0,
+      "last_words": 1
+    },
+    {
+      "day": 4,
+      "first_speaker": "p6",
+      "ordinary": 7,
+      "ballot_rounds": 1,
+      "runoff_speeches": 0,
+      "last_words": 2
+    },
+    {
+      "day": 5,
+      "first_speaker": "p7",
+      "ordinary": 5,
+      "ballot_rounds": 1,
+      "runoff_speeches": 0,
+      "last_words": 1
+    }
+  ],
+  "scope": "Public mechanics only; does not establish quality of reasoning.",
+  "event_count": 156,
+  "references": "passed",
+  "counts": "passed",
+  "archive_receipts": [
+    {
+      "receipt": "e45",
+      "speech": "e44",
+      "source_ids": [
+        "e16"
+      ]
+    },
+    {
+      "receipt": "e76",
+      "speech": "e75",
+      "source_ids": [
+        "e8"
+      ]
+    },
+    {
+      "receipt": "e107",
+      "speech": "e106",
+      "source_ids": [
+        "e82"
+      ]
+    },
+    {
+      "receipt": "e138",
+      "speech": "e137",
+      "source_ids": [
+        "e111"
+      ]
+    }
+  ],
+  "narration_acts": {
+    "opening": 4,
+    "pressure": 2,
+    "crisis": 8,
+    "ending": 1
+  },
+  "victory_role_check": "not possible from public archive; winner declared by engine",
+  "private_night_review": "not included in archive",
+  "source_zip_sha256": "c9823adbf11b0f083ca6dc7e57bbeac8e7f5405f313f814b41245f1ac6a160d3",
+  "html_matches_trusted_renderer": true,
+  "dom_check": {
+    "status": "passed",
+    "event_states": 155,
+    "checks": [
+      "alive count",
+      "speech text",
+      "narrator identity",
+      "archive labels",
+      "rewind"
+    ]
+  }
+}

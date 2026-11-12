@@ -1,0 +1,24 @@
+{
+  "rules_version": "mafia-coordinated-v1",
+  "status": "finished",
+  "winner": "town",
+  "days": 5,
+  "speeches": 45,
+  "runoff_speeches": 0,
+  "last_words": 6,
+  "nominations": 30,
+  "searches": 4,
+  "searches_cited": 4,
+  "story_plans": 1,
+  "narrations": 15,
+  "story_errors": 1,
+  "llm_calls": 124,
+  "validation_errors": 8,
+  "usage": {
+    "input_tokens": 322385,
+    "output_tokens": 8083,
+    "total_tokens": 357475,
+    "completion_tokens": 752,
+    "prompt_tokens": 26255
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "models": {
+    "p1": "yandexgpt/latest",
+    "p2": "gemini-3.5-flash-lite",
+    "p3": "yandexgpt/latest",
+    "p4": "yandexgpt/latest",
+    "p5": "/kaggle/working/gguf_smoke/models/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-Q4_K_M.gguf",
+    "p6": "gemini-3.5-flash-lite",
+    "p7": "yandexgpt/latest",
+    "p8": "yandexgpt/latest",
+    "p9": "gemini-3.5-flash-lite",
+    "p10": "yandexgpt/latest"
+  },
+  "source": "Mafia_Kaggle_Live.ipynb",
+  "synthetic": false,
+  "gguf_repository": "Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF",
+  "gguf_filename": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-Q4_K_M.gguf",
+  "gguf_revision": "35285bf9d161fb3a9f28aee914670b0b32e72f3d",
+  "gguf_context": 16384
+}

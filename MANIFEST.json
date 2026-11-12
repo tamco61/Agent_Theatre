@@ -1,0 +1,28 @@
+{
+  "project": "Многоагентная мафия",
+  "main_run": "20261112T180458Z-3f9b82",
+  "entrypoints": {
+    "readme": "README.md",
+    "report": "REPORT.md",
+    "notebook": "LLM_Theatre.ipynb",
+    "replay": "Mafia_Table.html",
+    "live": "Mafia_Kaggle_Live.ipynb",
+    "working_notebook": "notebooks/Kaggle_Working_20261112.ipynb"
+  },
+  "record_checksums": {
+    "public.json": "e92ee4c2962974e1aaea43d6356fa277b1ab555ba3e7383597d2571dbb1eb634",
+    "public.md": "b49a255d71d730a07f6aaf76b962b465ae40736e5b2c4978628fd2e4fec8d5c8",
+    "summary.json": "b33ceb3ab1c2118d964e0968b631162cfe1df7b4a9841eb71dbb3ba6bc75f96e",
+    "provenance.json": "f5aae9a121de88bc76b0a504fa903c82696adf0ebb54f7f5071b51080dcb9d94",
+    "table.html": "4ba5b92af21abab2f450c38826e9ff046bb64bd3db0ac2a9c43370671a476fb4"
+  },
+  "validation": {
+    "replay_states": 155
+  },
+  "working_notebook": {
+    "source_filename": "notebook4afa5bbf0c-3.ipynb",
+    "sha256": "506ec1c6226430f5d59ba2b8a410be51389a773dfb16d8b4bfede71ee46ee575",
+    "preserved_with_outputs": true
+  },
+  "results_directory": "results"
+}
